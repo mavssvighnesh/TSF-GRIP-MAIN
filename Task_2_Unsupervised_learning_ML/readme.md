@@ -1,6 +1,7 @@
 <h1>Task instructions</h1>
 
-![task-2](image.png)
+![image](https://github.com/mavssvighnesh/TSF-GRIP-MAIN/assets/109013315/c0b90637-5f19-475d-b69e-cbd2765cc32f)
+
 
 Get dataset <a href="https://bit.ly/3kXTdox">Here</a>
 <br>
