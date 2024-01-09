@@ -17,10 +17,6 @@
 
 ![image](https://github.com/mavssvighnesh/TSF-GRIP-MAIN/assets/109013315/c0b90637-5f19-475d-b69e-cbd2765cc32f)
 
-<h3>Task-3</h3>
-
-![image](https://github.com/mavssvighnesh/TSF-GRIP-MAIN/assets/109013315/fa0a9a34-1ebc-493b-9cfd-fcd5cb1fc43a)
-
 
 <h3>Task-6</h3>
 
